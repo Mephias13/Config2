@@ -1,4 +1,5 @@
-Путь к программе для визуализации графов,C:\Program Files\Graphviz\bin\dot.exe
+Путь к программе для визуализации графов,C:\Program Files\Graphviz\bin
 Имя пакета,requests
-Путь к файлу графа,C:\PythonStuff\Config\requests_dependencies
-URL репозитория,https://github.com/Mephias13/Config2/
+Путь к файлу графа,C:\PythonStuff\Config\
+URL репозитория,https://pypi.org
+Глубина зависимости,2
